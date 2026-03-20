@@ -19,3 +19,4 @@ print("Resume Uploaded Successfully ")
 
 sleep(5)
 driver.close()
+driver.quit()

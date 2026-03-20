@@ -53,3 +53,5 @@ print(" 1 Item Added To Your Card Successfully!!! ")
 
 
 driver.close()
+
+driver.quit()
