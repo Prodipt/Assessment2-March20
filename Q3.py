@@ -18,5 +18,5 @@ driver.find_element(By.XPATH, "//input[@type='file']").send_keys(r"C:\Users\pras
 print("Resume Uploaded Successfully ")
 
 sleep(5)
-driver.close()
+
 driver.quit()

@@ -35,6 +35,4 @@ print("Score Difference: ",ScoreDiff.text)
 print("Total Points: ", Points.text)
 
 
-
-driver.close()
 driver.quit()
